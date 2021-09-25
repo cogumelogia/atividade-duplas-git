@@ -1,4 +1,6 @@
 Conseguimos resolver os conflitos no arquivo?
 Conseguimos!
 Essa é a segunda merge do projeto. Agora estamos resolvendo conflitos entre versões de um arquivo.
+Será que foi?
+
 Essa não é a primeira merge do projeto
