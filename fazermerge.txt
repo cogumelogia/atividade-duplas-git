@@ -1,0 +1,2 @@
+Essa é a segunda merge do projeto. Agora estamos resolvendo conflitos entre versões de um arquivo.
+Essa não é a primeira merge do projeto
